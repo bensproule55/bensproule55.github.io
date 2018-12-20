@@ -4,3 +4,13 @@ body
     color:white;
     background-color:#191919;
 }
+.index-background
+{
+    background-image: url("../media/horizon.jpg");
+    background-color: #cccccc;
+    height: 980px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
