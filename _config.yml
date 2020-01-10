@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Ben Sproule"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/looking-at-trees.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science & Music Portfolio"
   location         : "Guelph, ON"
   email            : "ben.sproule55@gmail.com"
