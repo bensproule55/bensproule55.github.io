@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /computer-science/
-title: "Computer Science Posts by Tags"
+permalink: /music/
+title: "Music Posts by Tags"
 author_profile: true
 ---
 
