@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Computer Science"
-  url: /computer-science/
+    url: /computer-science/
   - title: "Music"
-  url: /music/
+    url: /music/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
