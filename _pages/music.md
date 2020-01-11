@@ -30,4 +30,4 @@ I am a singer. I love most types of music, but have a special love for 4-part A 
 - Take It Easy - *The Eagles*
 - Tags on Soundcloud - *Updated constantly [here]("https://soundcloud.com/user-899983098")*
 
-###For info on arrangements and/or tracks, send me an email [here]("mailto:ben.sproule55@gmail.com")
+### For info on arrangements and/or tracks, send me an email [here]("mailto:ben.sproule55@gmail.com")
