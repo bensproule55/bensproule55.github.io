@@ -134,6 +134,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ben-sproule-a49231191/"
+    - label: "SoundCloud"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://soundcloud.com/user-899983098"
 
 # Site Footer
 footer:
