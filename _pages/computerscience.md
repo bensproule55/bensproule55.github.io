@@ -9,7 +9,7 @@ author_profile: true
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-    {% if post.tags = "cs" %}
+    {% if post.tag == "cs" %}
     <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
     {% endif %}
   {% for post in posts %}
