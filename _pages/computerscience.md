@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /computer-science/
-title: "Computer Science Posts by Tags"
+title: "Computer Science Work Terms"
 author_profile: true
 ---
 
