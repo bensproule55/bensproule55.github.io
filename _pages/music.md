@@ -3,6 +3,8 @@ layout: archive
 permalink: /music/
 title: "Music"
 author_profile: true
+header:
+    image: "/images/newfoundland-water.jpg"
 ---
 I am a singer. I love most types of music, but have a special love for 4-part A Cappella music. As well as singing in groups, I have two quartets. Recently I started to make custom arrangements, multi-tracks, and learning-tracks. Here is a list of some groups I have been in:
 

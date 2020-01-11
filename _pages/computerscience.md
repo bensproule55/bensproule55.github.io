@@ -3,6 +3,8 @@ layout: archive
 permalink: /computer-science/
 title: "Computer Science Work Terms"
 author_profile: true
+header:
+    image: "/images/arizona-mountain.jpg"
 ---
 {% include group-by-array collection=site.posts field="tags" %}
 {% for tag in group_names %}
