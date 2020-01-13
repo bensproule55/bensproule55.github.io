@@ -21,6 +21,7 @@ I am a singer. I love most types of music, but have a special love for 4-part A 
 ## Arrangements Completed
 - December 1963 \(Oh, What A Night\) - *Four Seasons*
 - The Greatest Snowman \(Parody\) - *The Greatest Showman*
+- Song for a Winter's Night = *Gordon Lightfoot*
 - Take It Easy - *The Eagles*
 
 ## Arrangements In Progress
