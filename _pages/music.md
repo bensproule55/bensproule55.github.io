@@ -6,9 +6,12 @@ author_profile: true
 header:
     image: "/images/newfoundland-water.jpg"
 ---
-I am a singer. I love most types of music, but have a special love for 4-part A Cappella music. As well as singing in large groups, I am currently in two quartets. Recently I started to make custom arrangements, multi-tracks, and learning tracks. Here is a list of some groups I have been in:
+I am a singer. I love most types of music, but have a special love for 4-part A Cappella music. I love singing in quartets and chamber groups especially. Recently I started to make custom arrangements, multi-tracks, and learning tracks. Here is a list of some groups I have been in:
 
+- Chroma Vocal Ensemble \(current\)
+- Chromatic Abberation Quartet \(current\)
 - The After Party Quartet
+- Guelph Chamber Choir
 - Snack Time Quartet
 - Hamilton Harbourtown Sound
 - University of Guelph Gryphon Singers
@@ -30,6 +33,9 @@ I am a singer. I love most types of music, but have a special love for 4-part A 
 - Wait For The Moment - *Vulfpeck*
 
 ## Tracks
+- Cuddle Up A Little Closer
+- I'd Like to Teach the World to Sing SATB
+- And So It Goes - *King Singers / The Crush* [mix here](https://soundcloud.com/user-899983098/and-so-it-goes-ttbb) 
 - Take It Easy - *The Eagles*
 - Tags on Soundcloud - *Updated constantly [here](https://soundcloud.com/user-899983098)*
 
